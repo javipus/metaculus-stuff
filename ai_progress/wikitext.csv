@@ -1,0 +1,51 @@
+RANK,MODEL,TEST PERPLEXITY,VALIDATION PERPLEXITY,NUMBER OF PARAMS,EXTRA TRAINING DATA,PAPER,CODE,YEAR
+1,kNN-LM,15.79,15.81,247M,,Generalization through Memorization: Nearest Neighbor Language Models,,2019
+2,Routing Transformer,15.8,,,,Efficient Content-Based Sparse Attention with Routing Transformers,,2020
+3,"Transformer-XL (RMS dynamic eval)",16.4,15.8,257M,,Dynamic Evaluation of Transformer Language Models,,2019
+4,"Transformer-XL (SGD dynamic eval)",17.0,16.3,257M,,Dynamic Evaluation of Transformer Language Models,,2019
+5,"Compressive Transformer (18L, M=1024)",17.1,16.0,,,Compressive Transformers for Long-Range Sequence Modelling,,2019
+6,SegaTransformer-XL,17.1,,257M,,Segatron: Segment-Aware Transformer for Language Modeling and Understanding,,2020
+7,SRU++ Large,17.4,16.7,232M,,When Attention Meets Fast Recurrence: Training Language Models with Reduced Compute,,2021
+8,Transformer-XL Large + Phrase Induction,17.4,,257M,,"Improving Neural Language Models by Segmenting, Attending, and Predicting the Future",,2019
+9,Staged Training,17.56,16.89,247M,,Shortformer: Better Language Modeling using Shorter Inputs,,2020
+10,Sandwich Transformer,17.96,,247M,,Improving Transformer Models by Reordering their Sublayers,,2019
+11,Shortformer,18.15,17.47,247M,,Shortformer: Better Language Modeling using Shorter Inputs,,2020
+12,"Feedback Transformer (8 layers)",18.2,17.5,139M,,Addressing Some Limitations of Transformers with Feedback Memory,,2020
+13,SRU++ Base,18.3,17.5,148M,,When Attention Meets Fast Recurrence: Training Language Models with Reduced Compute,,2021
+14,Transformer-XL Large,18.3,18.2,257M,,Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context,,2019
+15,PAR Transformer Large,18.4,,,,Pay Attention when Required,,2020
+16,"Transformer (Adaptive inputs)",18.70,17.97,247M,,Adaptive Input Representations for Neural Language Modeling,,2018
+17,T2R + Pretrain,19.6,19,,,Finetuning Pretrained Transformers into RNNs,,2021
+18,Subformer,20.39,,96M,,Subformer: A Parameter Reduced Transformer,,2020
+19,BERT-Large-CAS,20.4,19.6,395M,,Language Models with Transformers,,2019
+20,"All-attention network (36 layers)",20.6,19.7,133M,,Augmenting Self-attention with Persistent Memory,,2019
+21,"Feedback Transformer (4 layers)",22.4,21.4,44M,,Addressing Some Limitations of Transformers with Feedback Memory,,2020
+22,PAR Transformer Base,22.7,,,,Pay Attention when Required,,2020
+23,"DEQ-Transformer (medium, adaptive embed)",23.2,,110M,,Deep Equilibrium Models,,2019
+24,TaLK Convolutions,23.3,,240M,,Time-aware Large Kernel Convolutions,,2020
+25,"Rfa-Gate-Gaussian-Stateful (Big)",23.5,22,,,Random Feature Attention,,2021
+26,Transformer-XL Standard,24.0,23.1,151M,,Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context,,2019
+27,DeLighT,24.14,,99M,,DeLighT: Deep and Light-weight Transformer,,2020
+28,"AdvSoft (+ 4 layer QRNN + dynamic eval)",28.0,27.2,,,Improving Neural Language Modeling via Adversarial Training,,2019
+29,DEQ-TrellisNet,29.0,,180M,,Deep Equilibrium Models,,2019
+30,Trellis Network,29.19,,,,Trellis Networks for Sequence Modeling,,2018
+31,"LSTM (Hebbian, Cache, MbPA)",29.2,29.0,,,Fast Parametric Learning with Activation Memorization,,2018
+32,"LSTM (Hebbian, Cache)",29.7,29.9,,,Fast Parametric Learning with Activation Memorization,,2018
+33,"Rfa-Gate-Gaussian-Stateful (Small)",30.5,29.4,,,Random Feature Attention,,2021
+34,"LSTM (RMC)",31.6,30.8,,,Relational recurrent neural networks,,2018
+35,"DEQ-Transformer (small)",32.4,,138M,,Deep Equilibrium Models,,2019
+36,AWD-LSTM-MoS + ATOI,32.85,31.92,,,Alleviating Sequence Information Loss with Data Overlapping and Prime Batch Sizes,,2019
+37,4 layer QRNN,33.0,32.0,151M,,An Analysis of Neural Language Modeling at Multiple Scales,,2018
+38,"LSTM (Hebbian)",34.3,34.1,,,Fast Parametric Learning with Activation Memorization,,2018
+39,LSTM,36.4,36.0,,,Fast Parametric Learning with Activation Memorization,,2018
+40,GCNN-14,37.2,-,,,Language Modeling with Gated Convolutional Networks,,2016
+41,"Neural cache model (size = 2,000)",40.8,,,,Improving Neural Language Models with a Continuous Cache,,2016
+42,"Neural cache model (size = 100)",44.8,,,,Improving Neural Language Models with a Continuous Cache,,2016
+43,GCNN-8,44.9,,,,Language Modeling with Gated Convolutional Networks,,2016
+44,TCN,45.19,,,,An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling,,2018
+45,Temporal CNN,45.2,-,,,Convolutional Sequence Modeling Revisited,,2018
+46,LSTM,48.7,,,,Improving Neural Language Models with a Continuous Cache,,2016
+47,"Transformer (Adaptive inputs)",,19.5,,,On the adequacy of untuned warmup for adaptive optimization,,2019
+48,LSTM,,52.73,,,How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?,,2020
+49,GRU,,53.78,,,How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?,,2020
+50,Decay RNN,,76.67,,,How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?,,2020

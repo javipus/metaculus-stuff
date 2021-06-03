@@ -1,0 +1,63 @@
+RANK,MODEL,MIOU,PAPER,CODE,RESULT,YEAR
+1,"CAA + Simple decoder 
+(Efficientnet-B7)",60.5,Channelized Axial Attention for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2021
+2,DPT-Hybrid,60.46,Vision Transformers for Dense Prediction,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2021
+3,"CAA 
+(Efficientnet-B7)",60.1,Channelized Axial Attention for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2021
+4,"HRNetV2 + OCR + RMI 
+(PaddleClas pretrained)",59.6,Object-Contextual Representations for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+5,ResNeSt-269,58.9,ResNeSt: Split-Attention Networks,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2020
+6,ResNeSt-200,58.4,ResNeSt: Split-Attention Networks,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2020
+7,ResNeSt-101,56.5,ResNeSt: Split-Attention Networks,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2020
+8,"OCR 
+(HRNetV2-W48)",56.2,Object-Contextual Representations for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+9,"SETR-MLA 
+(16, 80k, MS)",55.83,Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2020
+10,DCNAS,55.6,DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation,,"<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2020
+11,"DRAN
+(ResNet-101)",55.4,Scene Segmentation with Dual Relation-aware Attention Network,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+12,DNL,55.3,Disentangled Non-Local Neural Networks,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2020
+13,"CAA 
+(ResNet-101)",55.0,Channelized Axial Attention for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2021
+14,"OCR 
+(ResNet-101)",54.8,Object-Contextual Representations for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+15,"HRNetV2 
+(HRNetV2-W48)",54.0,Deep High-Resolution Representation Learning for Visual Recognition,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+16,"CFNet 
+(ResNet-101)",54.0,Co-Occurrent Features in Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+17,"CFNet 
+(ResNet-101)",54.0,Deep High-Resolution Representation Learning for Visual Recognition,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+18,"CPN
+(ResNet-101)",53.9,Context Prior for Scene Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2020
+19,"LaU-regression-loss 
+(ResNet-101)",53.9,Location-aware Upsampling for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+20,"DGCNet 
+(MS, ResNet-101)",53.7,Dual Graph Convolutional Network for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+21,BFP,53.6,Boundary-Aware Feature Propagation for Scene Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+22,"SVCNet 
+(ResNet-101)",53.2,Semantic Correlation Promoted Shape-Variant Context for Segmentation,,"<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+23,Joint Pyramid Upsampling + EncNet,53.1,FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+24,Asymmetric ALNN,52.8,Asymmetric Non-local Neural Networks for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+25,"DANet 
+(ResNet-101)",52.6,Dual Attention Network for Scene Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2018
+26,DUpsampling,52.5,Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+27,"EncNet 
+(ResNet-101)",51.7,Context Encoding for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2018
+28,"CCL 
+(ResNet-101)",51.6,Context Contrasted Feature and Gated Multi-Scale Aggregation for Scene Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2018
+29,"CFNet 
+(ResNet-50)",51.5,Co-Occurrent Features in Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2019
+30,ResNet-38,48.1,Wider or Deeper: Revisiting the ResNet Model for Visual Recognition,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2016
+31,"PSPNet 
+(ResNet-101)",47.8,Pyramid Scene Parsing Network,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2016
+32,RefineNet,47.3,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2016
+33,DeepLabV2,45.7,"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs","<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2016
+34,VeryDeep,44.5,Bridging Category-level and Instance-level Semantic Image Segmentation,,"<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2016
+35,Piecewise,43.3,Efficient piecewise training of deep structured models for semantic segmentation,,"<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2015
+36,Dilated-FCN2s,42.6,Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2017
+37,HO CRF,41.3,Higher Order Conditional Random Fields in Deep Neural Networks,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2015
+38,BoxSup,40.5,BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation,,"<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2015
+39,ParseNet,40.4,ParseNet: Looking Wider to See Better,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2015
+40,CRF-RNN,39.3,Conditional Random Fields as Recurrent Neural Networks,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2015
+41,FCN-8s,37.8,Fully Convolutional Networks for Semantic Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2014
+42,CFM,34.4,Convolutional Feature Masking for Joint Object and Stuff Segmentation,"<ion-icon name=""logo-github"" role=""img"" class=""md hydrated"" aria-label=""logo github""></ion-icon>","<ion-icon name=""enter-outline"" role=""img"" class=""md hydrated"" aria-label=""enter outline""></ion-icon>",2014
