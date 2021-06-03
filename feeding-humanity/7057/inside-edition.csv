@@ -1,0 +1,7 @@
+round,tester,patty,verdict
+0,0,beef,beef
+0,1,beef,beef
+0,2,plant,plant
+1,0,plant,plant
+1,1,beef,plant
+1,2,beef,beef
